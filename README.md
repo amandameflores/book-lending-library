@@ -37,7 +37,7 @@ Return date must be greater than loan date.
 
 
 # empresta-livro
-Workshop "Do Básico a API" - [Devs Java Girl] [PARTE 2]
+Workshop "Do Básico a API" - [Devs Java Girl] 
 
 
 # DESAFIO: 
